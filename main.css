@@ -13,6 +13,12 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+a {
+    text-decoration: none;
+    color: white;
+    padding: 8px;
+}
+
 .page-container {
     display: flex;
     min-height: 100vh;  /* 100% of the viewport height */
